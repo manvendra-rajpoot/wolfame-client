@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+.navbar{
+    background-color: rgb(44, 44, 44);
+}
+
+.navbar-logo{
+    width: 30px;
+    height: 40px;
+    margin-right: 10px;
+}
+.brand-name{
+    display: flex;
+    align-items: center;
+}
+.brand-name>span{
+    color: rgb(255, 50, 50);
+    font-family: "Press Start 2P";
+}
+#nav-item{
+    color: rgb(255, 50, 50);
+    font-family: "Luckiest Guy";
+}
+.navbar-toggler{
+color: red;
+}
